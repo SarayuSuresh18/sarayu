@@ -1,0 +1,67 @@
+Name :SARAYU SURESH
+Location: KERALA,INDIA | Phone No : 8089006374 | Email: sarayusuresh18@gmail.com | GitHub Username:SarayuSuresh18
+
+I am an Enthusiastic beginner in front-end web development with a keen interest in building beautiful and responsive websites.
+Currently learning HTML, CSS, and JavaScript through self-study and online courses.
+Motivated to grow in the tech industry and ready to contribute to real-world projects while continuing to learn.
+
+Skills
+Learning:
+
+HTML
+css
+JavaScript
+
+Tools:
+
+VS Code
+Git & GitHub (basic knowledge)
+
+
+Soft Skills:
+
+Eager to learn
+Teamwork
+Attention to detail
+Problem-solving mindset
+
+Mini Projects / Practice Work:
+
+1. Simple Personal Webpage
+HTML, CSS
+Created a basic “About Me” page with images, text, and links.
+
+2. SwapSkill
+HTML,CSS
+created a basic web page design for a platform when people can exchange their skills
+
+3.GLAMkart
+HTML,,CSS,JavaScript
+Created a e -commerce page where products can be added to cart , increase and decrease the quantity of products and total price 
+can be seen at the check out
+
+Education:
+
+Pursuing
+Bachelor of Technology (B.Tech) in  Computer Science at
+Mar Baselios Christian College of Engineering and Technology
+Kuttikanam , Idduki , Kerala
+2024 – 2028 (currently in 2nd year)
+
+Learning & Goals:
+
+Learning HTML, CSS, JavaScript through tutorials and practice
+Plan to build a complete portfolio website
+Interested in learning React and modern UI frameworks
+
+Languages:
+
+English – Fluent
+
+
+Interests:
+
+Designing web pages
+Watching web dev tutorials
+Exploring websites for design inspiration
+Learning by doing small projects
